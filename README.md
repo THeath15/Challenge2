@@ -17,6 +17,10 @@ return or percent change from the starting price  of the given yer to the closig
 
 ## Results
 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92903447/140260106-c367645c-7c4d-465e-8696-eb8f93fb056f.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/92903447/140260146-a2a6e635-3240-4db6-a2ad-d95fcde18ac4.png)
+
 
 
 - What are the advantages or disadvantages of refactoring code?
