@@ -6,25 +6,23 @@ Steve was satisfied with the workbook prepared for him. To add more to his resea
  Steve would like  to perform his analysis on larger datasets, and he wants to measure the code performance on how fast the  VBA code will compile the results. To help Steve, we need to add a script that will calculate how long the code takes to execute and output the elapsed time in a message box.
 
 ## Analysis and Challenges
-In this challenge, we have to edit  or refactor, the Module 2 solution code to loop through all the data in order to collect the same information that you did in this module activity.  This will determine if  refactoring  code successfully made the VBA script run faster. Below is the written analysis that explains the findings. 
+In this challenge, we have to edit  or refactor, the Module 2 solution code to loop through all the data in order to collect the same information that we drun through in this module activity.  This will determine if  refactoring  code successfully made the VBA script run faster. Below is the written analysis that explains the findings. 
  
  Using VBA , this project analyzed stock market datasets  for 2 years (2017, 2018 ) The goal is to create a script that will loop through all the stocks for one year for each run and take the following information:
 
 The ticker symbol
 Total Daily Volume  and the 
-return or percent change from the starting price  of the given yer to the closig at the end of the year.
+Return or percent change from the starting price  of the given yer to the closig at the end of the year.
 
 
 ## Results
-
-
 
 Below are screenshots for the run program results for the refactored VBA Stock Analysis scripts for Steve. 
 
 This screenshot shows the 2017 stock analysis, where ticker for DQ shows highest yield of return at 199.4% and TERP gave a negative return 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/92903447/140622431-33cd940b-d184-4a75-9e6e-7189e587b929.png)
 
-This screenshot shows the 201 8stock analysis, where ticker for DQ shows negative return and ENPH and RUN shows a good percentage of investment 
+This screenshot shows the 2018stock analysis, where ticker for DQ shows negative return and ENPH and RUN shows a good percentage of investment 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/92903447/140622434-610f7259-fe03-4cb8-8676-dd2e9d1eb4c6.png)
 
 Run results for 2017
