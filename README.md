@@ -17,11 +17,26 @@ return or percent change from the starting price  of the given yer to the closig
 
 ## Results
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/92903447/140260106-c367645c-7c4d-465e-8696-eb8f93fb056f.png)
-
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/92903447/140260146-a2a6e635-3240-4db6-a2ad-d95fcde18ac4.png)
 
 
+Below are screenshots for the run program results for the refactored VBA Stock Analysis scripts for Steve. 
+
+This screenshot shows the 2017 stock analysis, where ticker for DQ shows highest yield of return at 199.4% and TERP gave a negative return 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92903447/140622431-33cd940b-d184-4a75-9e6e-7189e587b929.png)
+
+This screenshot shows the 201 8stock analysis, where ticker for DQ shows negative return and ENPH and RUN shows a good percentage of investment 
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/92903447/140622434-610f7259-fe03-4cb8-8676-dd2e9d1eb4c6.png)
+
+Run results for 2017
+![Screenshot 2021 VBA Challenge 2017](https://user-images.githubusercontent.com/92903447/140622445-9d178a71-f2b1-4174-937d-a874cc53df28.png)
+
+Run results for 2018
+![Screenshot 2021-VBA Challenge 2018](https://user-images.githubusercontent.com/92903447/140622450-96a68751-d0a9-4242-b91b-f9368af90abe.png)
+
+The refactored vbscripts shows a faster runtime in providing Steve the information he need.
+![Screenshot 2017 Timer](https://user-images.githubusercontent.com/92903447/140622455-f60c01fc-44cc-4bf1-ae9c-37f2684a8d15.png)
+
+![Screenshot 2018 Timer](https://user-images.githubusercontent.com/92903447/140622459-2dd511d5-5416-4d03-8fa0-5338e12a37a5.png)
 
 - What are the advantages or disadvantages of refactoring code?
 Refactoring Advantages:
